@@ -3,9 +3,13 @@
 # identitas
 
 Nama : Moch. Lutfi Pamungkas
+
 Kelas : XII RPL 2
+
 No Urut : 25
+
 NIS : 43741272
+
 Nama Sekolah : SMK Telkom Malang
 
 # Screenshoot
